@@ -1,0 +1,69 @@
+name,symbol,sector,transCost,fullUniverseInclusion
+Bitcoin,BTC,currency,15,1
+1Inch,1INCH,defi,30,1
+Aave,AAVE,defi,20,1
+Algorand,ALGO,smartContractPlatforms,20,1
+Apecoin,APE,web3,20,0
+Avalanche,AVAX,smartContractPlatforms,20,1
+Balancer,BAL,defi,30,1
+BarnBridge,BOND,derivatives,40,1
+BasicAttentionToken,BAT,web3,40,1
+Binance USD,BUSD,stableCoins,20,0
+BNB,BNB,smartContractPlatforms,20,1
+Cardano,ADA,smartContractPlatforms,20,1
+Chainlink,LINK,web3,20,1
+Compound,COMP,defi,30,1
+Cosmos,ATOM,smartContractPlatforms,20,1
+Curve,CRV,defi,20,1
+DAI,DAI,stableCoins,20,0
+Decentaland,MANA,gaming,40,1
+Dogecoin,DOGE,currency,20,1
+dYdX,DYDX,defi,30,1
+EOS,EOS,smartContractPlatforms,20,1
+Ethereum,ETH,smartContractPlatforms,15,1
+Fantom,FTM,smartContractPlatforms,20,1
+FEI USD,FEI,stableCoins,20,0
+Filecoin,FIL,web3_storage,20,1
+FRAX,FRAX,stableCoins,20,0
+FTXToken,FTT,exchangeToken,20,1
+Gala,GALA,gaming,40,1
+Harmony,ONE,privacyCoins,40,1
+Helium,HNT,web3,20,1
+Injective Protocol,INJ,derivatives,40,1
+KyberNetwork,KNC,defi,20,1
+Lido DAO,LDO,derivatives,40,0
+Litecoin,LTC,currency,20,1
+Luna Classic,LUNA,smartContractPlatforms,20,1
+Luna Classic,LUNC,smartContractPlatforms,20,1
+Maker,MKR,defi,30,1
+Mask Network,MASK,privacyCoins,40,0
+Monero,XMR,currency_privacyCoins,20,1
+Near Protocol,NEAR,smartContractPlatforms,20,1
+Pax Dollar,USDP,stableCoins,20,0
+Polkadot,DOT,smartContractPlatforms,20,1
+Polygon,MATIC,smartContractPlatforms,20,1
+Quant,QNT,defi,30,1
+Radix,XRD,defi,30,1
+Raydium,RAY,defi,30,1
+Ripple,XRP,currency,20,1
+Serum,SRM,defi,30,1
+Solana,SOL,smartContractPlatforms,20,1
+Stellar,XLM,currency,30,1
+SushiSwap,SUSHI,defi,30,1
+Synapse,SYN,defi_interoperability,40,0
+Synthetix,SNX,derivatives,40,1
+Tether,USDT,stableCoins,20,0
+Tezos,XTZ,smartContractPlatforms,20,1
+The Graph,GRT,web3,20,1
+The Sandbox,SAND,gaming,40,1
+Theta Fuel,TFUEL,web3,20,1
+Theta Network,THETA,web3,20,1
+THORChain,RUNE,defi,40,1
+True USD,TUSD,stableCoins,20,0
+Ultra,UOS,gaming,40,1
+UMA,UMA,derivatives,40,1
+Uniswap,UNI,defi,20,1
+USD Coin,USDC,stableCoins,20,0
+VeChain,VET,smartContractPlatforms,30,1
+yearn.finance,YFI,defi,30,1
+Zcash,ZEC,privacyCoins,40,0
